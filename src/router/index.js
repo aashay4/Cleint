@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import store from '../store'
+import About from '../views/about.vue'
 
 Vue.use(VueRouter)
 
