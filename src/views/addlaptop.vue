@@ -55,7 +55,7 @@ import { createNote, getNotes }  from '../repository'
 import NoteItem  from '../components/NoteItem.vue'
 
 export default {
-  name: 'createlaptop',
+  name: 'add',
   components: { NoteItem },
   data() {
     return {

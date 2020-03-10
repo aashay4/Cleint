@@ -25,7 +25,7 @@ import NoteItem  from '../components/NoteItem.vue'
 
 import { getNotes }  from '../repository'
 export default {
-  name: 'About',
+  name: 'about',
   components: { NoteItem },
   data(){
     return {

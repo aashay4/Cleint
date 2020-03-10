@@ -322,7 +322,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 import footer from '../components/footer.vue'
 
 export default {
-  name: 'Home',
+  name: 'laptopfinder',
   components: { 'footer-app': footer },
   data () {
     return {
